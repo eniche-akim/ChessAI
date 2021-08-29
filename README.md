@@ -2,7 +2,7 @@
 
 An implementation of *neural network* to play chess.
 
-<img width=600px src="https://github.com/eniche-akim/ChesAI/blob/master/chess.png" />
+<img width=600px src="https://github.com/eniche-akim/ChessAI/blob/master/chess.png" />
 
 
 Usage
