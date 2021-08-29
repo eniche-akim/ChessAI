@@ -1,0 +1,66 @@
+body {
+    padding-top: 70px;
+    align-items: center;
+    background-color: lightblue;
+}
+
+#board {
+    padding: 10px;
+    max-width: 500px;
+    min-width: 300px;
+}
+
+.navbar {
+    background-color: red;
+}
+
+#logo {
+    position: relative;
+    left: 10%;
+}
+
+#secondWindow {
+    max-width: 400px;
+    margin: 10px;
+    min-height: 370px;
+}
+
+#moveTable {
+    width: 100%;
+    max-height: 370px;
+    overflow: auto;
+}
+
+#controls {
+    position: absolute;
+    bottom: 0;
+}
+
+#time {
+		font-size: xxx-large;
+}
+
+.loadbar
+{
+     width:30px;
+     height:500px;
+     background-color:#fff;
+     border:3px solid #000000;
+     position: fixed;
+  	 top: 135px;
+     left: 360px;
+}
+#bar
+{
+    width:100%;
+    height:50%;
+    display:block;        
+    font-family:arial;
+    font-size:12px; 
+    background-color:#000000;
+    color:#fff;       
+    position:relative;
+    bottom:0;
+
+       
+}
